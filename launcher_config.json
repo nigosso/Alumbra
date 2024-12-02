@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/nigosso/Alumbra/releases/download/launcher/Alumbra.14x.zip",
+	"newClientUrl" : "https://github.com/nigosso/Alumbra/releases/download/launcher/cliente.13.40.Alumbra.zip",
 	"clientExecutable": "client.exe"
 }
